@@ -2,6 +2,8 @@
 
 An Adaptive Dual Selective Transformer for Temporal Action Localization
 
+Our code is built upon the codebase from [ActionFormer](https://github.com/happyharrycn/actionformer_release),[TemporalMaxer](https://github.com/TuanTNG/TemporalMaxer) and [Tridet](https://github.com/dingfengshi/TriDet), and we would like to express our gratitude for their outstanding work.
+
 ![](./docs/fig2.png)
 
 ![](./docs/fig3.png)
