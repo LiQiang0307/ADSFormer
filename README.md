@@ -8,6 +8,20 @@ Our code is built upon the codebase from [ActionFormer](https://github.com/happy
 
 ![](./docs/fig3.png)
 
+## Environment
+- Ubuntu20.04
+-  NVIDIA RTX A6000 GPU
+-  Python3.8, Pytorch2.0 and CUDA11.8
+
+
+## Install NMS
+```
+cd ./libs/utils
+python setup.py install --user
+cd ../..
+```
+
+
 ## Pretrained Models
 
 We provide our pre-trained models. 
