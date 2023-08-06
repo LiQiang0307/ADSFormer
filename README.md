@@ -12,6 +12,15 @@ Our code is built upon the codebase from [ActionFormer](https://github.com/happy
 - Ubuntu20.04
 -  NVIDIA RTX A6000 GPU
 -  Python3.8, Pytorch2.0 and CUDA11.8
+-  `h5py,
+joblib,
+matplotlib,
+numpy,
+pandas,
+PyYAML,
+scikit_learn,
+scipy,
+setuptools`
 
 
 ## Install NMS
