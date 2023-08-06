@@ -39,6 +39,10 @@ Baidu link：https://pan.baidu.com/s/1BLairYF4rJ-5fEYLWN3zgA?pwd=rnid password�
 
 Google drive：https://drive.google.com/drive/folders/1giaQytYcsHrVtFkyOJQRbO6mCulJEEVr?usp=sharing
 
+## Training and Evaluation
+Train: `python ./train.py ./configs/xxxx.yaml --save_ckpt_dir ./ckpt/xxx`
+
+Eval: `python ./eval.py ./configs/xxxx.yaml <path of the weights>`
 
 ## Results
 
