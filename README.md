@@ -17,3 +17,12 @@ Baidu link：https://pan.baidu.com/s/1BLairYF4rJ-5fEYLWN3zgA?pwd=rnid password�
 Google drive：https://drive.google.com/drive/folders/1giaQytYcsHrVtFkyOJQRbO6mCulJEEVr?usp=sharing
 
 
+## Results
+
+![](./docs/table1.png)
+
+![](./docs/table2.png)
+
+![](./docs/table3.png)
+
+![](./docs/table4.png)
