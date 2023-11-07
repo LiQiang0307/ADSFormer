@@ -54,7 +54,7 @@ def main(args):
     tb_writer = SummaryWriter(os.path.join(ckpt_folder, 'logs'))
 
     # fix the random seeds (this will fix everything)
-    rng_generator = fix_random_seed(cfg['init_rand_seed'], include_cuda=False)
+    rng_generator = fix_random_seed(cfg['init_rand_seed'], include_cuda=True)
 
     # re-scale learning rate / # workers based on number of GPUs
     cfg['opt']["learning_rate"] *= len(cfg['devices'])
